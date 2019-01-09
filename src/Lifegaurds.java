@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Scanner;
-
+/*
 public class Lifegaurds {
 
     public static void main(String[] args) throws FileNotFoundException {
@@ -43,6 +43,7 @@ public class Lifegaurds {
 class Cow implements Comparable<Cow> {
     long startTime;
     long endTime;
+
     Cow(long s, long e) {
         startTime = s;
         endTime = e;
@@ -54,3 +55,4 @@ class Cow implements Comparable<Cow> {
         return res;
     }
 }
+*/
